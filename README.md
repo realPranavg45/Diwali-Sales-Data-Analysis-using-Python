@@ -40,6 +40,4 @@ The analysis helps in identifying valuable business insights that can support da
 - State-wise and occupation-based purchasing behavior
 - Sales trend visualization
 
----
-
-## 📂 Project Structure
+--
